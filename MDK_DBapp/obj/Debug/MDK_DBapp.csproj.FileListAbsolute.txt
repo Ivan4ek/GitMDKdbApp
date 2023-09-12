@@ -1,0 +1,11 @@
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\obj\Debug\MDK_DBapp.csproj.AssemblyReference.cache
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\obj\Debug\MDK_DBapp.csproj.SuggestedBindingRedirects.cache
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\obj\Debug\MDK_DBapp.Form1.resources
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\obj\Debug\MDK_DBapp.Properties.Resources.resources
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\obj\Debug\MDK_DBapp.csproj.GenerateResource.cache
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\obj\Debug\MDK_DBapp.csproj.CoreCompileInputs.cache
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\bin\Debug\MDK_DBapp.exe.config
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\bin\Debug\MDK_DBapp.exe
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\bin\Debug\MDK_DBapp.pdb
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\obj\Debug\MDK_DBapp.exe
+C:\GitProjectMDK\MDK_DBapp\MDK_DBapp\obj\Debug\MDK_DBapp.pdb
